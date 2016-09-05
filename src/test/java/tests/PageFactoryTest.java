@@ -25,6 +25,7 @@ public class PageFactoryTest extends BaseClass {
         mainPage.countInboxLetters();
 
         System.out.println();
+        System.out.println("qweq");
 
 
     }
