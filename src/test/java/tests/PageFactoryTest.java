@@ -24,6 +24,9 @@ public class PageFactoryTest extends BaseClass {
         loginPage.loginTo(userLogin,userDomainValue,userPassword);
         mainPage.countInboxLetters();
 
+        System.out.println();
+
+
     }
 
 
