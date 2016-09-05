@@ -29,6 +29,7 @@ public class FlowTest extends BaseClass {
         mainPage.
                 countInboxLetters();
 
+        System.out.println("kbkbkbkbk");
 
     }
 
