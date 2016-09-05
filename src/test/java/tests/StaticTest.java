@@ -21,6 +21,8 @@ public class StaticTest extends BaseClass{
 
         StaticMainPage.countInboxLetters(driver);
 
+        System.out.println("Andrei asdasd");
+
     }
 
 }
